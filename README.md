@@ -1,6 +1,6 @@
 [![icon](https://github.com/eppic/ReplaceWindowsKeyAHK/blob/main/keyboard.png)](https://github.com/eppic/ReplaceWindowsKeyAHK)
 # ReplaceWindowsKeyAHK
-Replaces the Windows Key with Alt+F12
+Replaces the Windows Key with Alt+F12 while maintaining Windows Key Shortcuts (Win+D / Win+Shift+S / etc)
 
 Not mine. Found on Reddit.
 
