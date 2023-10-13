@@ -1,4 +1,4 @@
-[![icon](https://github.com/eppic/ReplaceWindowsKeyAHK/blob/main/icon.png)](https://github.com/eppic/ReplaceWindowsKeyAHK)
+[![icon](https://github.com/eppic/ReplaceWindowsKeyAHK/blob/main/keyboard.png)](https://github.com/eppic/ReplaceWindowsKeyAHK)
 # ReplaceWindowsKeyAHK
 Replaces the Windows Key with Alt+F12
 
